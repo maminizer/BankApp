@@ -4,7 +4,9 @@
 
 ### Landing Page UI
 
-<img src="./ressources/img1" alt="alt text" width="320" height="460">
+
+![test image size](/ressources/img2.png){:height="50%" width="50%"}
+
 
 
 
