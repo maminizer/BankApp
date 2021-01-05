@@ -5,7 +5,7 @@
 ### Landing Page UI
 
 
-![test image size](/ressources/img2.png){:height="50%" width="50%"}
+![test image size](/ressources/img2.png){:height="10%" width="10%"}
 
 
 
