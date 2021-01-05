@@ -4,8 +4,8 @@
 
 ### Landing Page UI
 
+<img src="/ressources/img2.png" width="320" height="640">
 
-![test image size](/ressources/img2.png){:height="10%" width="10%"}
 
 
 
