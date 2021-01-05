@@ -4,7 +4,9 @@
 
 ### Landing Page UI
 
-![](./ressources/img1.png |  width=320)
+<img src="./ressources/img1" alt="alt text" width="320" height="460">
+
+
 
 
 
