@@ -4,7 +4,7 @@
 
 ### Landing Page UI
 
-![App UI](./ressources/img1.png =320x640) 
-![App UI](./ressources/img2.png =320x640)
+![](./ressources/img1.png =100x20)
+
 
 
