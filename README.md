@@ -4,7 +4,7 @@
 
 ### Landing Page UI
 
-![](./ressources/img1.png =100x20)
+![](./ressources/img1.png)
 
 
 
