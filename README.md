@@ -4,7 +4,7 @@
 
 ### Landing Page UI
 
-![](./ressources/img1.png)
+![](./ressources/img1.png |  width=320)
 
 
 
